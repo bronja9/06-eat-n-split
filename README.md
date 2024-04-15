@@ -2,6 +2,9 @@
 
 Welcome to the Eat-n-split repository! Your practice project for splitting restaurant bills! 🧾
 
+  ![Travel List Screenshot](./public/split-the-bill.png )
+
+
 ## Description 📝
 
 Eat-n-split is a practice project designed to help you master the art of splitting restaurant bills among friends or groups. With its intuitive user interface and simple functionality, it provides a hassle-free solution for dividing bills accurately.
